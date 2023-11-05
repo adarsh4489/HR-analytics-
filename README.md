@@ -8,7 +8,7 @@ HR analytics dashboard using Power Bi and Ms excel.
 I've developed this interactive dashboard to analyze sales data from an HR of an office (from youtube). The dashboard offers a comprehensive view of HR's performance, trends, and key metrics. It's designed to help company owner to  make informed decisions, optimize strategies, and enhance company growth.
 
 📊 Key Features:
-Github link: https://github.com/adarsh4489/HR-analytics-
+
 HR performance metrics, including attrition, ,avg salary of employee and average age of work in the company. Time-based analysis, such as monthly and yearly trends like how many peoples left the company at what age . Dynamic filters and slicers for easy data exploration.
 
 📚 Technologies and Skills Demonstrated:
